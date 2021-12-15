@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DiyarJamal12
+- 👀 I’m interested in Fivem scripts
+- 🌱 I’m currently learning Lua, Py
+- 📫 How to reach me Discord: Diyar#3955
